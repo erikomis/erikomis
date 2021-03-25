@@ -9,7 +9,7 @@ Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de w
 ### Entre em contato comigo!
 
 <a href="erik.ozzetti.martins@gmail.com"><img align="left" alt="Erik Ozzetti Martins | Gmail" width="30px" src="https://img.icons8.com/fluent/2x/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/erik-ozzetti-martins-a119751b1/"><img align="left" alt="Israel Ribeiro | Linkedin" width="30px" src="https://img.icons8.com/color/72/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/erik-ozzetti-martins-a119751b1/"><img align="left" alt="Erik Ozzetti Martins | Linkedin" width="30px" src="https://img.icons8.com/color/72/linkedin.png"/></a>
 
 <br />
 
