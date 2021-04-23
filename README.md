@@ -30,4 +30,4 @@ Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de w
 
 <img align="left" alt="erik ozzetti martins's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Erik-Ozzetti-Martins&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Ozzetti-Martins)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Ozzetti-Martins)] (https://github.com/anuraghazra/github-readme-stats)
