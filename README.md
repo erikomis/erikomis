@@ -4,7 +4,8 @@
 Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de web posteriormente desenvolvedor mobile.
 
 * Estou aprendendo um pouco de Desenvolvimento Web.
-* Estou aprendendo react para front-end.
+* Estou aprendendo Vue.js e Angular para front-end.
+* Tambem estudando Java.
 
 ### Entre em contato comigo!
 
@@ -20,7 +21,8 @@ Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de w
 <img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/windows/2x/26e07f/nodejs.png" />
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/2x/css3.png" />
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/72/html-5.png" />
-<img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/2x/react.png" />
+<img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/30/000000/vue-js.png" />
+<img align="left" alt="Java" width="30px"  src="https://img.icons8.com/wired/64/000000/java-coffee-cup-logo.png"/>
 
 
 <br />
