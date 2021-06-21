@@ -4,8 +4,8 @@
 Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de web posteriormente desenvolvedor mobile.
 
 * Estou aprendendo um pouco de Desenvolvimento Web.
-* Estou aprendendo Vue.js e Angular para front-end.
-* Tambem estudando Java.
+* Estou aprendendo Angular para front-end.
+* E java para o back-end.
 
 ### Entre em contato comigo!
 
