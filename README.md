@@ -21,7 +21,7 @@ Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de w
 <img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/windows/2x/26e07f/nodejs.png" />
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/2x/css3.png" />
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/72/html-5.png" />
-<img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/30/000000/vue-js.png" />
+<!-- <img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/30/000000/vue-js.png" /> -->
 <img align="left" alt="Java" width="30px"  src="https://img.icons8.com/wired/64/000000/java-coffee-cup-logo.png"/>
 
 
