@@ -5,7 +5,7 @@ Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de w
 
 * Estou aprendendo um pouco de Desenvolvimento Web.
 * Estou aprendendo Angular para front-end.
-* E java para o back-end.
+* E java com  spring e javascript com nest.js para o back-end.
 
 ### Entre em contato comigo!
 
