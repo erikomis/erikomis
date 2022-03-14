@@ -1,11 +1,10 @@
-### Hi there 👋
 
-# Olá, sou Erik. Bem vindo ao meu perfil!
-Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de web posteriormente desenvolvedor mobile.
+# Olá, sou o Erik. Bem vindo ao meu perfil!
+Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de web.
 
-* Estou aprendendo um pouco de Desenvolvimento Web.
-* Estou aprendendo Angular para front-end.
-* E java com spring e node com nest.js e adonis.js para o back-end.
+* Estou aprendendo sobre Desenvolvimento Web.
+* Estou aprendendo react.js para front-end.
+* E node.js com express para o back-end.
 
 ### Entre em contato comigo!
 
@@ -21,8 +20,8 @@ Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de w
 <img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/windows/2x/26e07f/nodejs.png" />
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/2x/css3.png" />
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/72/html-5.png" />
-<!-- <img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/30/000000/vue-js.png" /> -->
-<img align="left" alt="Java" width="30px"  src="https://img.icons8.com/wired/64/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/color/344/typescript.png" />
+<img align="left" alt="React.js" width="30px"  src="https://img.icons8.com/office/344/react.png"/>
 
 
 <br />
