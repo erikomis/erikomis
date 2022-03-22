@@ -1,6 +1,6 @@
 
 # Olá, sou o Erik. Bem vindo ao meu perfil!
-Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor de web.
+Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor web.
 
 * Estou aprendendo sobre Desenvolvimento Web.
 * Estou aprendendo react.js para front-end.
