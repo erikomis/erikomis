@@ -1,10 +1,10 @@
 
-# Olá, sou o Erik. Bem vindo ao meu perfil!
-Estou cursando Ciência da Computação a fim de me tornar um Desenvolvedor web.
+# Olá, eu sou o Erik e é um prazer tê-lo aqui em meu perfil!
+Eu sou estudante de Ciência da Computação com o objetivo de me tornar um Desenvolvedor Web de sucesso.
 
-* Estou aprendendo sobre Desenvolvimento Web.
-* Estou aprendendo react.js para front-end.
-* E node.js com express para o back-end.
+* Eu estou dedicado a aprender tudo o que é necessário para desenvolver aplicativos web incríveis.
+* Estou estudando React.js para o desenvolvimento front-end e Node.js com Express para o back-end.
+* Meus objetivos são alcançar habilidades excepcionais e trabalhar em projetos desafiadores que me permitam crescer como profissional.
 
 ### Entre em contato comigo!
 
