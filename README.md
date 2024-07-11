@@ -1,10 +1,12 @@
 
 # Olá, eu sou o Erik e é um prazer tê-lo aqui em meu perfil!
-Eu sou estudante de Ciência da Computação com o objetivo de me tornar um Desenvolvedor Web de sucesso.
-
-* Eu estou dedicado a aprender tudo o que é necessário para desenvolver aplicativos web incríveis.
-* Estou estudando React.js para o desenvolvimento front-end e Node.js com Express para o back-end.
-* Meus objetivos são alcançar habilidades excepcionais e trabalhar em projetos desafiadores que me permitam crescer como profissional.
+Desenvolvedor Web.
+Sou um entusiasta de tecnologia e extremamente dedicado, sempre
+buscando enriquecer meu conhecimento e ganhar experiência no
+desenvolvimento de aplicações. Estou constantemente em busca de
+aprimorar minhas competências técnicas e pessoais, e estou aberto
+a novas oportunidades e desafios que possam contribuir para o meu
+crescimento profissional.
 
 ### Entre em contato comigo!
 
@@ -22,6 +24,9 @@ Eu sou estudante de Ciência da Computação com o objetivo de me tornar um Dese
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/72/html-5.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/color/344/typescript.png" />
 <img align="left" alt="React.js" width="30px"  src="https://img.icons8.com/office/344/react.png"/>
+<img align="left" alt="java" width="30px"  src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+<img align="left" alt="Spring Boot" width="30px"  src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+
 
 
 <br />
